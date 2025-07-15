@@ -1,3 +1,4 @@
+
 class GuitarFretboard extends HTMLElement {
     constructor() {
         super();
